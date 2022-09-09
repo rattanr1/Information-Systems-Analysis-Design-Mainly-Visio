@@ -1,4 +1,4 @@
-                                                ###### Modern Systems Analysis and Design (9th Edition) ######
+                       ###### Modern Systems Analysis and Design (9th Edition) ######
 
 I took MIS 3301 from my university, which covers terminology, concepts, skills, and techniques needed to effectively analyze and design business information systems.
 
